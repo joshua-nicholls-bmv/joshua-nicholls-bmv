@@ -1,0 +1,1 @@
+document.querySelectorAll('.btn').forEach(b=>b.addEventListener('mouseenter',()=>b.style.transform='translateY(-2px)'));document.querySelectorAll('.btn').forEach(b=>b.addEventListener('mouseleave',()=>b.style.transform=''));
