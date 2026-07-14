@@ -1,1 +1,0 @@
-Replace placeholder boxes with your project artwork and logo.
